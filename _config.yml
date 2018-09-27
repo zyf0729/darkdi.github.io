@@ -57,13 +57,13 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: zyf0729
+#disqus_username: zyf0729
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: e9fcdc22bdaf5582e215                            #生成的clientID
+  clientSecret: 599a9b69f2ac224a95c5d0528e51093d0b9fe340    #生成的clientSecret
   repo: zyf0729.github.io    #仓库名称
   owner: zyf0729    #github用户名
   admin: zyf0729
